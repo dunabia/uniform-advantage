@@ -9,17 +9,17 @@ import UgcGallery from "./components/UgcGallery";
 
 function App() {
   //Instance ID
-  let InstanceId_Widget = "1053497";
+  let InstanceId_Widget = "1023416";
   let InstanceId_QA = "";
-  let InstanceId_SEO = "";
+  let InstanceId_SEO = "1055113";
   let InstanceId_Carousel = "";
-  let InstanceId_StarRating = "1053498";
+  let InstanceId_StarRating = "";
   let InstanceId_PromotedProd = "";
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
 
   //Product ID
-  let ProductId = "437";
+  let ProductId = "BSS346";
 
   //Clipboard text here.
   let ClipBoardHeading = "Follow these steps to add this";
